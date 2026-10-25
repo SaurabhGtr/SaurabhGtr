@@ -34,6 +34,8 @@ I've built platforms handling **20M+ daily views** with **Next.js, Node.js, Pyth
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://warpperformance.com/"><img src="./assets/warp-performance-og.png" width="100%" alt="Warp Performance — WordPress speed you can prove" /></a>
+
 #### ⚡ Warp Performance
 
 **WordPress performance, engineered across the stack.**
@@ -46,6 +48,8 @@ For teams who want a faster WordPress experience backed by real performance data
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://cloudhashed.com/"><img src="./assets/cloudhashed-og.png" width="100%" alt="CloudHashed — Your WordPress, quietly handled. Managed WordPress operations." /></a>
 
 #### ☁️ CloudHashed
 
