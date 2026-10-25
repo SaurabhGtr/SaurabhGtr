@@ -178,7 +178,11 @@ Warp Performance is included with every care plan.
 <p align="center">
   <a href="https://cloudhashed.com/contact"><b>Make my platform faster →</b></a>
   &nbsp; · &nbsp;
+  <a href="https://warpperformance.com/">Make WordPress faster →</a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/SaurabhGtr?tab=repositories">Explore my work →</a>
+  &nbsp; · &nbsp;
+  <a href="https://profiles.wordpress.org/saurabhgtr/">My WordPress.org profile →</a>
 </p>
 
 <p align="center"><sub>ARCHITECTURE → PERFORMANCE → RELIABILITY → SCALE</sub></p>
