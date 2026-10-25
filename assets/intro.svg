@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="48" viewBox="0 0 760 48" role="img" aria-label="Architecture. Performance. Security. Scale.">
+<g text-anchor="middle" fill="#59f3c2" font-family="monospace" font-size="18" font-weight="600">
+<text x="380" y="30">Architecture. Performance. Security. Scale.<animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;.27;.32;.6;.65;.95;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="380" y="30" opacity="0">Building Warp Performance &amp; CloudHashed.<animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;.27;.32;.6;.65;.95;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="380" y="30" opacity="0">From thousands to tens of millions.<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.27;.32;.6;.65;.95;1" dur="12s" repeatCount="indefinite"/></text>
+</g></svg>

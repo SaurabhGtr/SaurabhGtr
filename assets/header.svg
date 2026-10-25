@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
   <title id="title">Saurabh — Platforms engineered for scale</title>
-  <desc id="desc">Dark circuit-inspired banner with animated signal paths. Full-stack engineer, systems architect, builder. 20 million plus daily views.</desc>
+  <desc id="desc">Dark circuit-inspired banner with animated signal paths. Full-stack engineer, systems architect, builder. Connected systems engineered for scale.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".6" stop-color="#10162c"/><stop offset="1" stop-color="#20133b"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#59f3c2"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -23,8 +23,8 @@
     <animateTransform attributeName="transform" type="rotate" from="0 1062 210" to="360 1062 210" dur="18s" repeatCount="indefinite"/>
   </circle>
   <rect x="1007" y="178" width="110" height="64" rx="12" fill="#0b1729" stroke="#59f3c2" stroke-opacity=".5"/>
-  <text x="1062" y="218" text-anchor="middle" fill="#59f3c2" font-family="monospace" font-size="25" font-weight="700">20M+</text>
-  <text x="1062" y="326" text-anchor="middle" fill="#a8b9d0" font-family="monospace" font-size="11" letter-spacing="2">DAILY VIEWS</text>
+  <text x="1062" y="218" text-anchor="middle" fill="#59f3c2" font-family="monospace" font-size="22" font-weight="700">&lt;/&gt;</text>
+  <text x="1062" y="326" text-anchor="middle" fill="#a8b9d0" font-family="monospace" font-size="11" letter-spacing="2">SYSTEMS AT SCALE</text>
   <rect x="54" y="53" width="235" height="29" rx="14" fill="#59f3c2" fill-opacity=".08" stroke="#59f3c2" stroke-opacity=".25"/>
   <circle cx="72" cy="67" r="4" fill="#59f3c2"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
   <text x="86" y="72" fill="#59f3c2" font-family="monospace" font-size="11" letter-spacing="2">ENGINEERING AT SCALE</text>

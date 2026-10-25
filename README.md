@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Saurabh — Full-stack engineer. Systems architect. Builder. Platforms engineered for scale." />
+  <img src="./assets/header.svg" width="100%" height="200" alt="Saurabh — Full-stack engineer. Systems architect. Builder. Platforms engineered for scale." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=59F3C2&center=true&vCenter=true&width=760&height=48&lines=From+thousands+to+tens+of+millions.;Architecture.+Performance.+Security.+Scale.;Building+Warp+Performance+%26+CloudHashed." alt="From thousands to tens of millions. Architecture, performance, security, scale. Building Warp Performance and CloudHashed." />
+  <img src="./assets/intro.svg" width="100%" height="48" alt="Architecture. Performance. Security. Scale." />
 </p>
 
 <p align="center">
-  <a href="https://warpperformance.com/"><img src="https://img.shields.io/badge/EXPLORE_WARP_PERFORMANCE-59F3C2?style=for-the-badge&logo=wordpress&logoColor=07111F" alt="Explore Warp Performance" /></a>
-  <a href="https://cloudhashed.com/"><img src="https://img.shields.io/badge/DISCOVER_CLOUDHASHED-8B5CF6?style=for-the-badge&logo=icloud&logoColor=white" alt="Discover CloudHashed" /></a>
-  <a href="https://github.com/SaurabhGtr?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_CODE-172438?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" /></a>
+  <a href="https://warpperformance.com/"><img src="./assets/badges/explore-warp-performance.svg" width="250" height="28" alt="Explore Warp Performance" /></a>
+  <a href="https://cloudhashed.com/"><img src="./assets/badges/discover-cloudhashed.svg" width="216" height="28" alt="Discover CloudHashed" /></a>
+  <a href="https://github.com/SaurabhGtr?tab=repositories"><img src="./assets/badges/view-my-repositories.svg" width="144" height="28" alt="View my repositories" /></a>
 </p>
 
 ---
@@ -23,9 +23,8 @@ I've built platforms handling **20M+ daily views** with **Next.js, Node.js, Pyth
 > **I engineer ecosystems that stay fast, stable, and secure at scale.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/20M%2B-DAILY_VIEWS-59F3C2?style=for-the-badge&labelColor=101B2D" alt="Built platforms handling over 20 million daily views" />
-  <img src="https://img.shields.io/badge/END_TO_END-SYSTEMS-8B5CF6?style=for-the-badge&labelColor=101B2D" alt="End-to-end systems engineering" />
-  <img src="https://img.shields.io/badge/BUILT_FOR-SCALE-38BDF8?style=for-the-badge&labelColor=101B2D" alt="Built for scale" />
+  <img src="./assets/badges/end-to-end-systems-engineering.svg" width="185" height="28" alt="End-to-end systems engineering" />
+  <img src="./assets/badges/built-for-scale.svg" width="155" height="28" alt="Built for scale" />
 </p>
 
 ### 02 / What I'm building
@@ -34,7 +33,7 @@ I've built platforms handling **20M+ daily views** with **Next.js, Node.js, Pyth
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://warpperformance.com/"><img src="./assets/warp-performance-og.png" width="100%" alt="Warp Performance — WordPress speed you can prove" /></a>
+<a href="https://warpperformance.com/"><img src="./assets/warp-performance-card.svg" width="100%" height="160" alt="Warp Performance — WordPress speed you can prove" /></a>
 
 #### ⚡ Warp Performance
 
@@ -49,7 +48,7 @@ For teams who want a faster WordPress experience backed by real performance data
 </td>
 <td width="50%" valign="top">
 
-<a href="https://cloudhashed.com/"><img src="./assets/cloudhashed-og.png" width="100%" alt="CloudHashed — Your WordPress, quietly handled. Managed WordPress operations." /></a>
+<a href="https://cloudhashed.com/"><img src="./assets/cloudhashed-card.svg" width="100%" height="160" alt="CloudHashed — Your WordPress, quietly handled. Managed WordPress operations." /></a>
 
 #### ☁️ CloudHashed
 
@@ -70,96 +69,96 @@ Warp Performance is included with every care plan.
 **Languages & runtimes**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,swift,nodejs&theme=dark" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Swift, Node.js" />
+  <img src="./assets/languages.svg" width="404" height="48" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Swift, Node.js" />
 </p>
 
 **Frameworks & application development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,laravel,flutter,tailwind&theme=dark" alt="Next.js, React, Vue.js, Nuxt, Laravel, Flutter, Tailwind CSS" />
+  <img src="./assets/frameworks.svg" width="404" height="48" alt="Next.js, React, Vue.js, Nuxt, Laravel, Flutter, Tailwind CSS" />
 </p>
 
 **Commerce, content & custom platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Custom_Platforms-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Custom platform development" />
+  <img src="./assets/tiles/wordpress.svg" width="88" height="82" alt="WordPress" />
+  <img src="./assets/tiles/woocommerce.svg" width="88" height="82" alt="WooCommerce" />
+  <img src="./assets/tiles/shopify.svg" width="88" height="82" alt="Shopify" />
+  <img src="./assets/tiles/custom-platform-development.svg" width="88" height="82" alt="Custom platform development" />
 </p>
 
 **APIs, protocols & tooling**
 
 <p>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" alt="gRPC" />
-  <img src="https://img.shields.io/badge/WebSocket-172438?style=for-the-badge" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/Custom_APIs-8B5CF6?style=for-the-badge" alt="Custom APIs" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman" />
+  <img src="./assets/tiles/graphql.svg" width="88" height="82" alt="GraphQL" />
+  <img src="./assets/tiles/grpc.svg" width="88" height="82" alt="gRPC" />
+  <img src="./assets/tiles/websocket.svg" width="88" height="82" alt="WebSocket" />
+  <img src="./assets/tiles/custom-apis.svg" width="88" height="82" alt="Custom APIs" />
+  <img src="./assets/tiles/postman.svg" width="88" height="82" alt="Postman" />
 </p>
 
 **Databases & analytics**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge" alt="BigQuery" />
+  <img src="./assets/tiles/postgresql.svg" width="88" height="82" alt="PostgreSQL" />
+  <img src="./assets/tiles/mysql.svg" width="88" height="82" alt="MySQL" />
+  <img src="./assets/tiles/mariadb.svg" width="88" height="82" alt="MariaDB" />
+  <img src="./assets/tiles/mongodb.svg" width="88" height="82" alt="MongoDB" />
+  <img src="./assets/tiles/bigquery.svg" width="88" height="82" alt="BigQuery" />
 </p>
 
 **Caching & search**
 
 <p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" alt="Redis" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge" alt="Elasticsearch" />
+  <img src="./assets/tiles/redis.svg" width="88" height="82" alt="Redis" />
+  <img src="./assets/tiles/elasticsearch.svg" width="88" height="82" alt="Elasticsearch" />
 </p>
 
 **Operating systems & server stacks**
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-172438?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge" alt="Debian" />
-  <img src="https://img.shields.io/badge/LAMP-8B5CF6?style=for-the-badge" alt="LAMP" />
-  <img src="https://img.shields.io/badge/LEMP-38BDF8?style=for-the-badge" alt="LEMP" />
+  <img src="./assets/tiles/linux.svg" width="88" height="82" alt="Linux" />
+  <img src="./assets/tiles/debian.svg" width="88" height="82" alt="Debian" />
+  <img src="./assets/tiles/lamp.svg" width="88" height="82" alt="LAMP" />
+  <img src="./assets/tiles/lemp.svg" width="88" height="82" alt="LEMP" />
 </p>
 
 **Web servers**
 
 <p>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge" alt="Caddy" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge" alt="Apache" />
-  <img src="https://img.shields.io/badge/OpenLiteSpeed-4178BE?style=for-the-badge" alt="OpenLiteSpeed (OLS)" />
-  <img src="https://img.shields.io/badge/LiteSpeed-172438?style=for-the-badge" alt="LiteSpeed (LS)" />
+  <img src="./assets/tiles/nginx.svg" width="88" height="82" alt="Nginx" />
+  <img src="./assets/tiles/caddy.svg" width="88" height="82" alt="Caddy" />
+  <img src="./assets/tiles/apache.svg" width="88" height="82" alt="Apache" />
+  <img src="./assets/tiles/openlitespeed-ols.svg" width="88" height="82" alt="OpenLiteSpeed (OLS)" />
+  <img src="./assets/tiles/litespeed-ls.svg" width="88" height="82" alt="LiteSpeed (LS)" />
 </p>
 
 **Infrastructure, hosting & containers**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge" alt="Vultr" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge" alt="Hetzner" />
-  <a href="https://cloudhashed.com/"><img src="https://img.shields.io/badge/CloudHashed-2563EB?style=for-the-badge" alt="CloudHashed" /></a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge" alt="Kubernetes" />
+  <img src="./assets/tiles/aws.svg" width="88" height="82" alt="AWS" />
+  <img src="./assets/tiles/digitalocean.svg" width="88" height="82" alt="DigitalOcean" />
+  <img src="./assets/tiles/vultr.svg" width="88" height="82" alt="Vultr" />
+  <img src="./assets/tiles/hetzner.svg" width="88" height="82" alt="Hetzner" />
+  <a href="https://cloudhashed.com/"><img src="./assets/tiles/cloudhashed.svg" width="88" height="82" alt="CloudHashed" /></a>
+  <img src="./assets/tiles/docker.svg" width="88" height="82" alt="Docker" />
+  <img src="./assets/tiles/kubernetes.svg" width="88" height="82" alt="Kubernetes" />
 </p>
 
 **CDN & edge delivery**
 
 <p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Bunny.net-F97316?style=for-the-badge" alt="Bunny.net" />
-  <img src="https://img.shields.io/badge/Fastly-EF3340?style=for-the-badge" alt="Fastly" />
+  <img src="./assets/tiles/cloudflare.svg" width="88" height="82" alt="Cloudflare" />
+  <img src="./assets/tiles/bunny-net.svg" width="88" height="82" alt="Bunny.net" />
+  <img src="./assets/tiles/fastly.svg" width="88" height="82" alt="Fastly" />
 </p>
 
 **Architecture & operations**
 
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-38BDF8?style=for-the-badge&logo=icloud&logoColor=07111F" alt="Cloud computing" />
-  <img src="https://img.shields.io/badge/Systems_Administration-172438?style=for-the-badge&logo=linux&logoColor=white" alt="Systems administration" />
-  <img src="https://img.shields.io/badge/System_Architecture-59F3C2?style=for-the-badge&logo=diagramsdotnet&logoColor=07111F" alt="System architecture" />
+  <img src="./assets/tiles/cloud-computing.svg" width="88" height="82" alt="Cloud computing" />
+  <img src="./assets/tiles/systems-administration.svg" width="88" height="82" alt="Systems administration" />
+  <img src="./assets/tiles/system-architecture.svg" width="88" height="82" alt="System architecture" />
 </p>
 
 ### 04 / Where I go deep
