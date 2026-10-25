@@ -174,11 +174,9 @@ Warp Performance is included with every care plan.
 
 ---
 
-<p align="center"><b>Have a platform that needs to handle what comes next?</b></p>
+<p align="center"><b>A faster platform. A stronger architecture. Room to scale.</b></p>
 <p align="center">
-  <a href="https://cloudhashed.com/contact">Let's talk systems →</a>
-  &nbsp; · &nbsp;
-  <a href="https://warpperformance.com/">Make WordPress faster →</a>
+  <a href="https://cloudhashed.com/contact"><b>Make my platform faster →</b></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/SaurabhGtr?tab=repositories">Explore my work →</a>
 </p>
