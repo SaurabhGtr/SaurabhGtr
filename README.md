@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" height="200" alt="Saurabh — Full-stack engineer. Systems architect. Builder. Platforms engineered for scale." />
+  <img src="./assets/header.svg" width="1280" height="420" alt="Saurabh — Full-stack engineer. Systems architect. Builder. Platforms engineered for scale." />
 </p>
 
 <p align="center">
