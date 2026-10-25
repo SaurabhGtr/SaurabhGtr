@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Saurabh — Platforms engineered for scale</title>
+  <desc id="desc">Dark circuit-inspired banner with animated signal paths. Full-stack engineer, systems architect, builder. 20 million plus daily views.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".6" stop-color="#10162c"/><stop offset="1" stop-color="#20133b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#59f3c2"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8da9cc" stroke-opacity=".07"/></pattern>
+    <radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".22"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="420" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="180" rx="330" ry="260" fill="url(#halo)"/>
+  <g fill="none" stroke="#344566" stroke-width="1.4">
+    <path d="M790 105h95l42 42h228M830 210h82l40-40h240M800 302h120l48-48h220M1020 30v55l42 42v194l-45 45v54"/>
+    <circle cx="1062" cy="210" r="92"/><circle cx="1062" cy="210" r="68" stroke-dasharray="3 10"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="55 600">
+    <path d="M790 105h95l42 42h228"><animate attributeName="stroke-dashoffset" values="655;0" dur="5s" repeatCount="indefinite"/></path>
+    <path d="M830 210h82l40-40h240"><animate attributeName="stroke-dashoffset" values="655;0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M800 302h120l48-48h220"><animate attributeName="stroke-dashoffset" values="655;0" dur="4.5s" repeatCount="indefinite"/></path>
+  </g>
+  <circle cx="1062" cy="210" r="92" fill="none" stroke="#59f3c2" stroke-width="2" stroke-dasharray="90 488">
+    <animateTransform attributeName="transform" type="rotate" from="0 1062 210" to="360 1062 210" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="1007" y="178" width="110" height="64" rx="12" fill="#0b1729" stroke="#59f3c2" stroke-opacity=".5"/>
+  <text x="1062" y="218" text-anchor="middle" fill="#59f3c2" font-family="monospace" font-size="25" font-weight="700">20M+</text>
+  <text x="1062" y="326" text-anchor="middle" fill="#a8b9d0" font-family="monospace" font-size="11" letter-spacing="2">DAILY VIEWS</text>
+  <rect x="54" y="53" width="235" height="29" rx="14" fill="#59f3c2" fill-opacity=".08" stroke="#59f3c2" stroke-opacity=".25"/>
+  <circle cx="72" cy="67" r="4" fill="#59f3c2"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="86" y="72" fill="#59f3c2" font-family="monospace" font-size="11" letter-spacing="2">ENGINEERING AT SCALE</text>
+  <text x="52" y="170" fill="#f3f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Saurabh<tspan fill="#59f3c2">.</tspan></text>
+  <text x="56" y="215" fill="#c1cce0" font-family="Segoe UI,Arial,sans-serif" font-size="20">Full-stack engineer / Systems architect / Builder</text>
+  <text x="56" y="283" fill="#f3f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600">Platforms engineered for what comes next.</text>
+  <text x="56" y="320" fill="#92a5c2" font-family="Segoe UI,Arial,sans-serif" font-size="17">Fast under pressure. Stable at scale. Secure by design.</text>
+  <path d="M56 368h1168" stroke="#23334b"/>
+  <path d="M56 368h240" stroke="url(#accent)" stroke-width="3"/>
+  <text x="56" y="394" fill="#8ba0bc" font-family="monospace" font-size="11" letter-spacing="2">SAURABHGTR / WARP PERFORMANCE / CLOUDHASHED</text>
+</svg>
