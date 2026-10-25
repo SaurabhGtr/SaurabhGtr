@@ -70,24 +70,91 @@ Warp Performance is included with every care plan.
 **Languages & runtimes**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,nodejs&theme=dark" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Node.js" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,kotlin,swift,nodejs&theme=dark" alt="PHP, JavaScript, TypeScript, Python, Kotlin, Swift, Node.js" />
 </p>
 
 **Frameworks & application development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nuxtjs&theme=dark" alt="Next.js, React, Laravel, Nuxt" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,laravel,flutter,tailwind&theme=dark" alt="Next.js, React, Vue.js, Nuxt, Laravel, Flutter, Tailwind CSS" />
 </p>
 
 **Commerce, content & custom platforms**
 
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Custom_Platforms-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Custom platform development" />
 </p>
 
-**Infrastructure & systems**
+**APIs, protocols & tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" alt="gRPC" />
+  <img src="https://img.shields.io/badge/WebSocket-172438?style=for-the-badge" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Custom_APIs-8B5CF6?style=for-the-badge" alt="Custom APIs" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman" />
+</p>
+
+**Databases & analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge" alt="BigQuery" />
+</p>
+
+**Caching & search**
+
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge" alt="Elasticsearch" />
+</p>
+
+**Operating systems & server stacks**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-172438?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge" alt="Debian" />
+  <img src="https://img.shields.io/badge/LAMP-8B5CF6?style=for-the-badge" alt="LAMP" />
+  <img src="https://img.shields.io/badge/LEMP-38BDF8?style=for-the-badge" alt="LEMP" />
+</p>
+
+**Web servers**
+
+<p>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge" alt="Apache" />
+  <img src="https://img.shields.io/badge/OpenLiteSpeed-4178BE?style=for-the-badge" alt="OpenLiteSpeed (OLS)" />
+  <img src="https://img.shields.io/badge/LiteSpeed-172438?style=for-the-badge" alt="LiteSpeed (LS)" />
+</p>
+
+**Infrastructure, hosting & containers**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge" alt="Vultr" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge" alt="Hetzner" />
+  <a href="https://cloudhashed.com/"><img src="https://img.shields.io/badge/CloudHashed-2563EB?style=for-the-badge" alt="CloudHashed" /></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge" alt="Kubernetes" />
+</p>
+
+**CDN & edge delivery**
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Bunny.net-F97316?style=for-the-badge" alt="Bunny.net" />
+  <img src="https://img.shields.io/badge/Fastly-EF3340?style=for-the-badge" alt="Fastly" />
+</p>
+
+**Architecture & operations**
 
 <p>
   <img src="https://img.shields.io/badge/Cloud_Computing-38BDF8?style=for-the-badge&logo=icloud&logoColor=07111F" alt="Cloud computing" />
